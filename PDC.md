@@ -1,4 +1,4 @@
-# !Politique De Confidentialité.
+# Politique De Confidentialité.
 
  ## Accès aux données.
 > L'accès aux données n'est autorisé qu'aux développeurs de KS'Protect 
@@ -26,8 +26,8 @@
 > L'autorisation a un développeur, est nécessaire pour les utiliser.
 
 ### Informations propriétaire.
-> Gabsamw²#2837,
-> Snow_Sky#4526,
+> Gabsamw²#2837.
+> Snow_Sky#4526.
 > BSB_KB9#7260.
 
 ### Aide au développement.
