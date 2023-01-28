@@ -15,7 +15,7 @@
 > Vous pouvez soumettre une demande via le support [`de KS'Protect`](https://discord.gg/5ANS9B2ySw).
 
 ## Respect des Conditions d’utilisation de Discord (ToS)
-> KS'Protect est obligé de respecté les [`ToS de discord`](https://discord.com/terms).
+> KS'Protect est obligé de respecté les [`TOS de Discord`](https://discord.com/terms).
 > Tous serveur ne respectant pas les tos de Discord, celui-ci sera blacklist et un leave du bot sera effectué
 
 ## Droit d'auteur.
