@@ -5,7 +5,7 @@
 > Si un serveur ne respecte pas les ToS de discord, le leave de KS'Protect sera effectué.
 
 ## Reproduction du bot.
-> Toute reproduction du bot est interdit et sera poursuivie par un blacklisr.
+> Toute reproduction du bot est interdit et sera poursuivie par un blacklist.
 
 ## Bugs.
 > Si vous trouvez un bug dans le bot, nous vous demandons de prévenir l'équipe de développement et de ne pas en profité.
