@@ -22,7 +22,6 @@
 ### Propriétaire.
 > Gabsamw²#2837.
 > Snow_Sky#4526.
-> BSB_KB9#7260.
 
-### Aide au developpement.
-> NoBody#9043
+
+
