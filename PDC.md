@@ -26,9 +26,5 @@
 > L'autorisation a un développeur, est nécessaire pour les utiliser.
 
 ### Informations propriétaire.
-> Gabsamw²#2837.
+> Gabsamw.
 > Snow_Sky#4526.
-> BSB_KB9#7260.
-
-### Aide au développement.
-> NoBody#9043.
